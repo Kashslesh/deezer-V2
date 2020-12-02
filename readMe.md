@@ -1,11 +1,14 @@
-# Et si on s'écoutait un petit morceau de rap... (merci Deezer !)
+# Et si on s'écoutait un petit morceau de rap... (feat Deezer !)
 
-1 - Cloner le projet sur votre système.
-2 - 'Dégiter' (`rm -rf .git`) le projet et versionner le.
-3 - Pusher votre projet sur Github
-4 - Coder le projet
-5 - Pusher sur Heroku
-6 - Penser à commit régulièrement ;)
+
+![GitHub Logo](deezer.png)
+
+1. Cloner le projet sur votre système.
+2. 'Dégiter' (`rm -rf .git`) le projet et versionner le.
+3. Pusher votre projet sur Github
+4. Coder le projet
+5. Pusher sur Heroku
+6. Penser à commit régulièrement ;)
 
 **Ce projet consiste à créer une page HTML qui liste les albums d'Eminem.**
 Le fichier **'data.js'** contient de l'information au format JSON concernant les ablums de l'artiste.
