@@ -7,8 +7,9 @@
 2. 'Dégiter' (`rm -rf .git`) le projet et versionner le.
 3. Pusher votre projet sur Github
 4. Coder le projet
-5. Pusher sur Heroku
-6. Penser à commit régulièrement ;)
+5. Prendre du plaisir à coder.
+6. Pusher sur Heroku
+7. Penser à commit régulièrement ;)
 
 **Ce projet consiste à créer une page HTML qui liste les albums d'Eminem.**
 Le fichier **'data.js'** contient de l'information au format JSON concernant les ablums de l'artiste.
@@ -58,7 +59,9 @@ Vous devez faire apparaitre 4 albums par ligne.
 Si vous voulez changer d'artiste, it's up to you...
 - Au format tablette, l'application devra faire apparaitre 2 albums par ligne
 - Au format mobile, l'application devra faire apparaitre 1 albums par ligne
-- Encapsuler toute la fonctionnalité dans une fonction `getData()`. Un bouton permettra de lancer la fonction.
+- Encapsuler toute la fonctionnalité dans une fonction `getData()`. Un bouton permettra de lancer la fonction et ainsi d'afficher les albums.
 
 
 # Prenez du plaisir à coder !
+
+deezer-app-v2 coming soon...
