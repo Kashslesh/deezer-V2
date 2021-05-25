@@ -1,7 +1,7 @@
 'use strict';
 
 // importation d'un base de donné
-import './data.js';
+import '/data.js';
 // console.log(data);
 const divArtistes = document.querySelector('.divArtistes');
 // console.log(divArtistes);
